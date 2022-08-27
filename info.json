@@ -1,5 +1,6 @@
 {
   "component": "rmg",
-  "version": "5.4.12.#399-3.be8b86d",
-  "environment": "UAT"
+  "version": "5.5.0-0.#418.63485dc",
+  "environment": "UAT",
+  "instance": "GitHub"
 }
