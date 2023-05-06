@@ -1,6 +1,6 @@
 {
   "component": "rmg",
-  "version": "5.9.4.#521-Fix-downloading-mtr-images-in-Firefox.c1842a9",
+  "version": "5.9.15.#531.ebff6f4",
   "environment": "UAT",
   "instance": "GitHub"
 }
